@@ -1,5 +1,11 @@
 # makefun-gta6-clipper
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Kendisamar01/makefun-gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Kendisamar01/makefun-gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+This clip was created for the [make.fun gta6-clipper-01 bounty](https://make.fun/bounty/gta6-clipper-01).
+
 A finished entry for make.fun's `gta6-clipper-01` challenge. The submission is a 26-second vertical YouTube Short: a beach-side ambulance chase from *Grand Theft Auto VI* runs first as the attention-grabber, followed by an end card telling viewers they can earn money by making clips with AI on make.fun. The address of the published video is in `VIDEO.json`.
 
 ## How the short was produced
