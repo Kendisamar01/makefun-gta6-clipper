@@ -1,6 +1,36 @@
+# Installed dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Generated output
+out/
+dist/
+build/
+*.tsbuildinfo
+/output/
+
+# Local footage and rendered media
 source/
 frames/
-out/
-clip.mp4
+*.mp4
+*.m4a
+*.mov
+*.mkv
+*.webm
+*.wav
+
+# Upload scratch files
 upload.json
+
+# Editor and OS litter
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
 nohup.out

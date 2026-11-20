@@ -1,11 +1,7 @@
-# Clip source and edit brief
+# Source footage and edit notes
 
-Entries for make.fun's gta6-clipper-01 are gameplay clip edits. This entry's clip is a
-post-production edit of a source recording the client supplied for this promotional use,
-held in source/ (kept out of the repository):
+The short in this repository was assembled from one GTA 6 gameplay recording rather than captured from the game during the edit. The project's earlier source notes identify it as footage the client supplied for this promotional piece. On disk it appears as `source/gta6-chase.f698.mp4`, a 1280×720 recording running roughly 522.9 seconds, alongside a detached audio track named `gta6-chase.f140.m4a`. Both sit in `source/`, which git deliberately ignores; the repository itself records no channel, download link or other upstream location for the capture.
 
-- source/gta6-chase.f698.mp4 (1280x720, 522.889 s) and its audio track gta6-chase.f140.m4a.
+## Processing
 
-The edit brief is make.fun's own: open on the peak of the moment, cut it to a vertical
-1080x1920 clip of 15-35 s, and end with make.fun's two-line pitch card. Gameplay clips and
-their promo edits are the ordinary content of this bounty; the client asked for this edit.
+The creative constraints came from make.fun's `gta6-clipper-01` brief: open on the strongest moment, keep the finished piece vertical (1080×1920) and within 15–35 seconds, and finish with a two-line make.fun pitch. In line with that, the editor took the beach ambulance pursuit from the supplied recording, cut it down to about 26 seconds, adapted the widescreen image to the portrait frame, and placed the make.fun/bounty text over the closing seconds. `clip.mp4` is the rendered outcome, and `frames/` holds review stills such as `card_zoom.png` that show the framing and the card. The published copy is on YouTube, with its link in `VIDEO.json` and its upload title and description in `upload.json`. The trim, scale and drawtext commands were executed interactively during the making session and were not committed as a script.
